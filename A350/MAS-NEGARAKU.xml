@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">MAS - Malaysia Airlines(Negaraku)</name>
+        <index type="int">2</index>
+        <bodyWork>
+  	  <texture>Liveries/MAS-NEGARAKU.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+<sim>    
+  <model>        
+    <livery>
+		<name type="string">El Al Israel Airlines(70 Years)</name>
+      <texture>Liveries-9/ELY-70.png</texture>
+    </livery>
+  </model>
+</sim>
+
+</PropertyList>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">Thai Airways International</name>
+				<texture>Liveries-9/THA.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

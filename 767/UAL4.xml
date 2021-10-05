@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">United Airlines 2004 (Star Alliance)</name>
+            <texture>UAL4.png</texture>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
