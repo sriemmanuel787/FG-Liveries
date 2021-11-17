@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Scandinavian Airlines</name>
+				<texture>Liveries/A320/CFM-NEO/SAS2.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
+ 
+ 

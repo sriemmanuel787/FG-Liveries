@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Lufthansa(D-AINZ)</name>
+				<texture>Liveries/A320/PW-NEO/DLH-BER.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
+ 
+ 
