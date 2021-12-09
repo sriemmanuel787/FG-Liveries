@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">FIN - Finnair</name>
+        <index type="int">2</index>
+        <bodyWork>
+  	  <texture>Liveries/FIN.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>
