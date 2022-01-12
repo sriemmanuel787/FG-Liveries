@@ -4,7 +4,7 @@
   <sim>
     <model>
       <livery>
-        <name type="string">DAL - Delta Air Lines(Spirit of Delta)</name>
+        <name type="string">DAL - Delta Air Lines - The Delta Spirit</name>
         <index type="int">2</index>
         <bodyWork>
   	  <texture>Liveries/DAL-SPIRIT.png</texture>

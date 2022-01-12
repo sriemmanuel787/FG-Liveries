@@ -4,7 +4,7 @@
   <sim>
     <model>
       <livery>
-        <name type="string">FIN - Finnair (Marrimeko Kivet)</name>
+        <name type="string">FIN - Finnair - Marrimekko Kivet</name>
         <index type="int">2</index>
         <bodyWork>
   	  <texture>Liveries/FIN-MK.png</texture>

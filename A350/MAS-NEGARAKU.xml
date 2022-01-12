@@ -4,7 +4,7 @@
   <sim>
     <model>
       <livery>
-        <name type="string">MAS - Malaysia Airlines(Negaraku)</name>
+        <name type="string">MAS - Malaysia Airlines - Negaraku</name>
         <index type="int">2</index>
         <bodyWork>
   	  <texture>Liveries/MAS-NEGARAKU.png</texture>
