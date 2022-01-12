@@ -9,7 +9,7 @@ This repository contains several aircraft liveries designed for various aircraft
   - 767-300 (https://github.com/dogsaysmoo/767-300)
   
  Note:
- Unfortunately, the aircraft file that the A320 liveries were designed for only functions correctly for versions 2017 and older. If you attempt to fly it in any 2018 or 2019 versions, the aircraft will not take off, and if you try to fly it in any versions newer than that it will not load.
+ Unfortunately, the aircraft file that the A320 liveries were designed for only functions correctly for versions 2017 and older. An attempt to fly it in any nwere versions will result in the placehholder model.
  Here is the link to the broken aircraft:
  https://github.com/Bombbird2001/A320Family
  
