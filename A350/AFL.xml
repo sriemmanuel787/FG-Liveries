@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">AFL - Aeroflot Russian Airlines</name>
+        <index type="int">2</index>
+        <bodyWork>
+  	  <texture>Liveries/AFL.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>

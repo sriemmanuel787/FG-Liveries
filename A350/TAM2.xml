@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">TAM - LATAM</name>
+        <index type="int">2</index>
+        <bodyWork>
+  	  <texture>Liveries/TAM2.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>
