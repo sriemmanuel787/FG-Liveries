@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">TAM - TAM - First A350</name>
+        <index type="int">2</index>
+        <bodyWork>
+  	  <texture>Liveries/TAM-FIRST.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>
