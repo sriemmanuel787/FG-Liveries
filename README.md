@@ -5,12 +5,7 @@ This repository contains several aircraft liveries designed for various aircraft
   - Airbus A350XWB (https://github.com/merspieler/A350-family)
   - 747-400, passenger and cargo (https://github.com/LincolnWorks-FlightGear/747-400)
   - 787 (8, 9, 10 - https://github.com/IskenderWang/787-family)
-  - A320 family (see below)
+  - A320 family (https://github.com/Bombbird2001/A320Family)
   - 767-300 (https://github.com/dogsaysmoo/767-300)
-  
- Note:
- Unfortunately, the aircraft file that the A320 liveries were designed for only functions correctly for versions 2017 and older. An attempt to fly it in any newer versions will result in the placehholder model.
- Here is the link to the broken aircraft:
- https://github.com/Bombbird2001/A320Family
- 
+  - 737 (link coming soon)
  More liveries are underway! If you have any questions, email me at sriemmanuel787@outlook.com
