@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+<sim>
+    <model>
+        <livery>                     
+            <name type="string">KLM Royal Dutch Airlines</name>
+            <texture>Liveries-700/KLM.png</texture>
+            <newwinglets type="bool">false</newwinglets>    
+            <nowinglets type="bool">false</nowinglets>            
+        </livery>        
+    </model>
+</sim>
+</PropertyList>
