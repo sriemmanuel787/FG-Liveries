@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+ 
+<PropertyList>
+<sim>
+    <model>
+        <livery>                     
+            <name type="string">Alaska Airlines(More to Love)</name>
+            <texture>/Liveries-900/Alaska/ASA-LOVE.png</texture>
+            <newwinglets type="bool">true</newwinglets>    
+            <nowinglets type="bool">false</nowinglets>            
+        </livery>        
+    </model>
+</sim>
+</PropertyList>
