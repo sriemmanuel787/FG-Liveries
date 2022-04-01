@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Air New Zealand - Black</name>
+				<texture>Liveries/A321/PW-NEO/ANZ-BLACK.png</texture>
+			</livery>
+			<eng>
+				<texture>Liveries/A321/PW-NEO/blank-eng.png</texture>
+			</eng>
+		</model>
+	</sim>
+</PropertyList>

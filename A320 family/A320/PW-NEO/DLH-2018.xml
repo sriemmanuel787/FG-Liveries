@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Lufthansa(D-AINY)</name>
+				<texture>Liveries/A320/PW-NEO/DLH-2018.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
+ 
+ 
