@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">United Airlines(2019)</name>
+				<texture>Liveries-9/UAL2.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
