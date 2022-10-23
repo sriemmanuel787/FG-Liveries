@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Swiss International Airlines(2012)</name>
+				<texture>Liveries/A333RR/SWR-2012.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
